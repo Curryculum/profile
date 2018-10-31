@@ -1,27 +1,27 @@
 body {
   background-image: url("images/background.jpg");
   font-family: 'Montserrat', sans-serif;
-  color: rgb(125, 125, 125);
+  color: rgb(120, 150, 185);
   font-size: 14px;
   line-height: 20px;
 }
 
 h2, h3, h4 {
-  color: rgba(120, 150, 185, 0.9);
+  color: rgba(145, 145, 145, 0.9);
 }
 
 h1 {
   font-family: 'Bitter', serif;
   font-size: 24px;
-  color: rgb(100, 120, 220);
+  color: rgb(120, 150, 185);
 }
 
 a {
-  color: rgb(100, 120, 220);
+  color: rgb(145, 145, 145);
 }
 
 a:hover {
-  color: rgb(100, 150, 120);
+  color: rgb(120, 150, 185);
 }
 
 ul {
@@ -37,7 +37,7 @@ ul {
 .container {
   width: 500px;   /* This sets the width */
   margin: 20px auto; /* This automatically sets left/right margins */
-  background-color: rgb(205, 205, 205);
+  background-color: white;
   padding: 20px 15px ;
   border-radius: 1%;
 }
